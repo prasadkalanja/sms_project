@@ -1,6 +1,9 @@
 # sms_project
-
+#School managment Application
 A new Flutter application.
+   -Admin Dashboard
+   -Teacher Dashboard
+   -Student Dashboard
 
 ## Getting Started
 

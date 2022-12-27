@@ -8,6 +8,9 @@ A new Flutter application.
    -Teacher Dashboard
    
    -Student Dashboard
+   
+ sm_system.sql file for database file
+ 
 
 ## Getting Started
 
